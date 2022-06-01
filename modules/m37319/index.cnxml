@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Blogværktøjet på BB</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37319</md:content-id>
+  <md:title>Test: Blogværktøjet på BB</md:title>
+  <md:abstract/>
+  <md:uuid>3ddfa81d-b8c2-4c90-bebf-d47d05e30082</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      For at oprette en blog skal man gå ind under det pågældende fag. Men hvilket menupunkt skal man derpå klikke på for at finde blogværktøjet?
+            </q:question>
+	    
+	    <q:answer id="blog1">
+	      <q:response>Tools</q:response>
+  	      <q:feedback>Korrekt!
+Blogværktøjet ligger under tools.</q:feedback>
+	    </q:answer>
+	    
+	    <q:answer id="wiki1">
+	      <q:response>Assignments</q:response>
+	      <q:feedback>Desværre.</q:feedback>
+            </q:answer>
+	    
+	    <q:hint>Det er et blogVÆRKTØJ.</q:hint>
+	  
+
+	    
+	    <q:key answer="blog1"/>
+	  </q:item>  
+
+
+</exercise></para>
+</content>
+</document>

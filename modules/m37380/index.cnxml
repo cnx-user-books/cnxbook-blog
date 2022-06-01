@@ -1,0 +1,49 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Opsamling 2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37380</md:content-id>
+  <md:title>Test: Opsamling 2</md:title>
+  <md:abstract>Test</md:abstract>
+  <md:uuid>f6dcdf06-7198-41a3-ba96-a1ff4f11405a</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	 Hvordan listes indlæggene på bloggen i BlackBoard?
+            </q:question>
+	    
+	      <q:answer id="comments1">
+	      <q:response>I alfabetisk orden efter titel på indlægget</q:response>
+	      <q:feedback>Desværre. Indlæggene listes ikke efter titel.</q:feedback>
+            </q:answer>  
+
+   <q:answer id="comments2">
+	      <q:response>I alfabetisk orden efter forfatter</q:response>
+	      <q:feedback>Desværre. Indlæggene listes ikke efter forfatter.</q:feedback>
+            </q:answer> 
+
+    <q:answer id="comments4">
+	      <q:response>I kronologisk rækkefølge</q:response>
+	      <q:feedback>Desværre. Det nyeste indlæg står ikke nederst.</q:feedback>
+            </q:answer>  
+
+<q:answer id="comments3">
+	      <q:response>I omvendt kronologisk række følge</q:response>
+  	      <q:feedback> Korrekt. Indlæggene listes så det nyeste indlæg står øverst.</q:feedback>
+	    </q:answer>
+
+    
+	    
+	    <q:hint>Opdateringer er synlige når man klikker sig ind på bloggen.</q:hint>
+	  
+
+   
+	    <q:key answer="comments3"/>
+	  </q:item>
+</exercise></para>
+</content>
+</document>

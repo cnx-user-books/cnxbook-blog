@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Sådan forløber ”samtalen” på bloggen oftest på BB</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37322</md:content-id>
+  <md:title>Test: Sådan forløber ”samtalen” på bloggen oftest på BB</md:title>
+  <md:abstract/>
+  <md:uuid>10ab20c2-f7c8-4e9d-b094-01845567603d</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      Hvad er vigtigst i en blog?
+            </q:question>
+	    
+	    
+	    <q:answer id="form1">
+	      <q:response>Form</q:response>
+	      <q:feedback>Det var desværre forkert. Prøv igen.</q:feedback>
+            </q:answer>
+
+   <q:answer id="indhold1">
+	      <q:response>Indhold</q:response>
+  	      <q:feedback>Korrekt! Indholdet er vigtigst i en blog.</q:feedback>
+	    </q:answer>	    
+	    <q:hint>Bloggen er beregnet til at skrive åbent og hurtigt på.</q:hint>
+	  
+
+   
+	    <q:key answer="indhold1"/>
+	  </q:item>  
+
+
+</exercise></para>
+</content>
+</document>

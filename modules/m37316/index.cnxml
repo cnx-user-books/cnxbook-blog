@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Bloggens enkelte dele</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37316</md:content-id>
+  <md:title>Test: Bloggens enkelte dele</md:title>
+  <md:abstract/>
+  <md:uuid>3997a065-70e5-4e3f-a49a-4369f9fecfc6</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      Hvor skal du klikke hvis du vil oprette en kommentar?
+            </q:question>
+	    
+	    <q:answer id="comment1">
+	      <q:response>På "Comment"</q:response>
+  	      <q:feedback>Korrekt!
+Man skal trykke på knappen "Comment" for at kunne skrive en kommentar til en blog</q:feedback>
+	    </q:answer>
+	    
+	    <q:answer id="comments1">
+	      <q:response>På "Comments"</q:response>
+	      <q:feedback>Det var desværre forkert. Prøv igen</q:feedback>
+            </q:answer>
+	    
+	    <q:hint>Du vil i denne forbindelse oprette en kommentar, ikke læse en allerede eksisterende kommentar.</q:hint>
+	  
+
+   
+	    <q:key answer="comment1"/>
+	  </q:item>  
+
+
+</exercise></para>
+</content>
+</document>

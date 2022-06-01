@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Sådan kommer du i gang</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37323</md:content-id>
+  <md:title>Test: Sådan kommer du i gang</md:title>
+  <md:abstract/>
+  <md:uuid>50f8188f-e97b-49b1-8494-7c6697f19344</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+
+
+<exercise id="z1"><q:item id="item1" type="single-response">
+		<q:question>
+       Hvad skal man være for, at kunne benytte sig af blogværktøjet på BlackBoard?
+            </q:question>
+		<q:answer id="svar1">
+			<q:response>Man skal være professor i kemi</q:response>
+			<q:feedback>
+Det var desværre forkert. Prøv igen.
+</q:feedback>
+		</q:answer>
+		<q:answer id="svar2">
+			<q:response>Man skal være astronaut</q:response>
+			<q:feedback>Det var desværre ikke det rigtige svar. Prøv igen.</q:feedback>
+		</q:answer>
+		<q:answer id="svar3">
+			<q:response>Man skal være logget ind</q:response>
+			<q:feedback>
+Korrekt! Det kræver at man er logget ind på BlackBoard for at kunne oprette en blog.
+</q:feedback>
+		</q:answer>
+		<q:answer id="svar4">
+			<q:response>Man skal være rektor på et universitet</q:response>
+			<q:feedback>Det var desværre ikke det rigtige svar. Prøv igen.</q:feedback>
+		</q:answer>
+		<q:hint>Man skal bruge et brugernavn og et password</q:hint>
+		<q:hint>Når man har indtastet sit brugernavn og password trykker man som regel på en knap med teksten "Log Ind"</q:hint>
+		<q:key answer="svar3"/>
+	</q:item>
+</exercise>
+
+  </para><para id="eip-390">
+<exercise id="y1"><q:item id="iitem1" type="single-response">
+    
+     <q:question>
+Hvad skal man huske inden man opretter en blog?
+            </q:question>
+    
+     <q:answer id="svarr1">
+       <q:response>At give bloggen en overskrift</q:response>
+         <q:feedback>
+Korrekt! Bloggen skal have en overskrift for, at kunne blive oprettet.
+</q:feedback>
+     </q:answer>
+    
+     <q:answer id="svarr2">
+       <q:response>At bestille pizza hos det lokale pizzeria</q:response>
+       <q:feedback>Nej, desværre. Prøv igen.</q:feedback>
+            </q:answer>
+
+     <q:answer id="svarr3">
+       <q:response>At kigge efter bøhmanden i skabet</q:response>
+       <q:feedback>Det var desværre ikke det rigtige svar. Prøv igen.</q:feedback>
+            </q:answer>    
+     <q:hint>Det er ikke bøhmanden du skal huske</q:hint>
+     <q:hint>Mad er ikke vigtigt for en blog - kun for dig ;-)</q:hint>
+
+    
+     <q:key answer="svarr1"/>
+    
+   </q:item>
+  
+</exercise>
+</para>
+</content>
+
+</document>

@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Opsamling 3</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37381</md:content-id>
+  <md:title>Test: Opsamling 3</md:title>
+  <md:abstract>Test</md:abstract>
+  <md:uuid>21cf3602-628b-4eb6-bf1a-7d0757bd7d4d</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      Hvilke to ord er ordet 'blog' oprindeligt sammensat af?
+            </q:question>
+	    
+	      <q:answer id="comments1">
+	      <q:response>Bog og logo</q:response>
+	      <q:feedback>Desværre.</q:feedback>
+            </q:answer>  
+
+   <q:answer id="comments2">
+	      <q:response>Blanding og guitar</q:response>
+	      <q:feedback>Det er desværre forkert.</q:feedback>
+            </q:answer> 
+
+    <q:answer id="comments3">
+	      <q:response>Web og log</q:response>
+  	      <q:feedback> Rigtigt. Ordet blog stammer fra weblog, som er sammensat af: web (daglig tale for world wide web) og log (kommer fra skibslog; journaler med optegnelser om skibets fart, kurs osv..</q:feedback>
+	    </q:answer>
+
+     <q:answer id="comments4">
+	      <q:response>Banner og læring</q:response>
+	      <q:feedback>Ikke rigtigt.</q:feedback>
+            </q:answer> 
+	    
+	    <q:hint>Guitaren har ikke nogen sammenhæng med bloggen.</q:hint>
+	  
+
+   
+	    <q:key answer="comments3"/>
+	  </q:item>
+</exercise></para>
+</content>
+</document>

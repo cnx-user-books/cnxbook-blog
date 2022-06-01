@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Hvilke typer af blogs findes der?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37321</md:content-id>
+  <md:title>Test: Hvilke typer af blogs findes der?</md:title>
+  <md:abstract/>
+  <md:uuid>4f6d111e-228d-436c-b6e6-2bd737dfbbd2</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+     <exercise id="e1"><q:item id="item1" type="single-response">
+		<q:question>
+       Hvilke typer af blogs findes der?
+     </q:question>
+		<q:answer id="blog1">
+			<q:response>
+        Makroblog og mikroblog 
+        </q:response>
+			<q:feedback>
+        Nej, desværre. Prøv igen.
+      </q:feedback>
+		</q:answer>
+		<q:answer id="blog2">
+			<q:response>
+          Almindelig blog og mikroblog      </q:response>
+			<q:feedback>
+        Rigtigt!
+        Mikrobloggen er den kortere, brgrænsede version af den almindelige blog.
+     </q:feedback>
+		</q:answer>
+		<q:answer id="blog3">
+			<q:response>
+       Mikroblog og betablog
+     </q:response>
+			<q:feedback>
+        Det er desværre ikke rigtigt. Prøv igen.
+     </q:feedback>
+		</q:answer>
+		<q:answer id="blog4">
+			<q:response>
+        Miniblog og almindelig blog.
+     </q:response>
+			<q:feedback>
+        Det var desværre forkert. Prøv igen.
+     </q:feedback>
+		</q:answer>
+		<q:hint>Hvis du trækker 3 fra 5, så har du det korrekte antal</q:hint>
+		<q:hint>Tallet kommer efter 1 og før 3</q:hint>
+		<q:key answer="blog2"/>
+	</q:item>
+</exercise>
+  </para>
+</content>
+
+</document>

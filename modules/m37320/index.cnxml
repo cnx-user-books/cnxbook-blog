@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Hvad er en blog?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37320</md:content-id>
+  <md:title>Test: Hvad er en blog?</md:title>
+  <md:abstract/>
+  <md:uuid>9b4a6a97-cac7-4eed-bb85-9b82eedb9ba5</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      Hvad indeholder en blog?
+            </q:question>
+
+	    <q:answer id="smedje1">
+	      <q:response>Hele spillefilm</q:response>
+	      <q:feedback>Nej, desværre. Prøv igen.</q:feedback>
+            </q:answer>
+	    
+	    <q:answer id="indlæg1">
+	      <q:response>Korte indlæg</q:response>
+  	      <q:feedback>Korrekt!
+En blog består af kortere stykker tekst.</q:feedback>
+	    </q:answer>
+	    
+	    <q:answer id="lærebøger1">
+	      <q:response>Hele lærebøger</q:response>
+	      <q:feedback>Det var desværre forkert. Prøv igen.</q:feedback>
+            </q:answer>
+	    
+	    <q:answer id="heksekunst1">
+	      <q:response>Leverpostejsmadder med remoulade</q:response>
+	      <q:feedback>Det var desværre ikke rigtigt. Prøv igen.</q:feedback>
+            </q:answer>
+
+
+	    <q:hint>Det skal være hurtigt og nemt.</q:hint>
+	  
+
+	    
+	    <q:key answer="indlæg1"/>
+	  </q:item>  
+
+
+</exercise></para>
+</content>
+</document>

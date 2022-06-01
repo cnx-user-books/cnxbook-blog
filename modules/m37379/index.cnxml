@@ -1,0 +1,47 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+<title>Test: Opsamling 1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37379</md:content-id>
+  <md:title>Test: Opsamling 1</md:title>
+  <md:abstract>Test</md:abstract>
+  <md:uuid>9dc48069-dd2e-4fa0-b256-845278391a91</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me">
+<exercise id="e1"><q:item id="item1" type="single-response">
+	    
+	    <q:question>
+	      Hvilke rettigheder kan man som underviser få, som samtidig er nødvendige for, at kunne oprette en blog på BlackBoard?
+            </q:question>
+	    
+	      <q:answer id="comments1">
+	      <q:response>Borgerlige rettigheder</q:response>
+	      <q:feedback>Desværre. Borgerlige rettigheder er ikke vigtige for at kunne oprette en blog.</q:feedback>
+            </q:answer>  
+
+   <q:answer id="comments2">
+	      <q:response>Administrator-rettigheder</q:response>
+	      <q:feedback>Desværre. Som administrator kan du oprette en blog. Men som underviser på SDU er du desværre ikke kvalificeret til disse rettigheder.</q:feedback>
+            </q:answer> 
+
+    <q:answer id="comments3">
+	      <q:response>Instructorrettigheder</q:response>
+  	      <q:feedback> Korrekt. For at kunne oprette en blog, må du have instructor-rettigheder.</q:feedback>
+	    </q:answer>
+
+     <q:answer id="comments4">
+	      <q:response>Bruger-rettigheder</q:response>
+	      <q:feedback>Desværre, bruger rettigheder er ikke nok.</q:feedback>
+            </q:answer> 
+	    
+	    <q:hint>Svaret har noget med din egen titel at gøre.</q:hint>
+	  
+
+   
+	    <q:key answer="comments3"/>
+	  </q:item>
+</exercise></para>
+</content>
+</document>

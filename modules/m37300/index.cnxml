@@ -1,0 +1,21 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Bloggens enkelte dele</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37300</md:content-id>
+  <md:title>Bloggens enkelte dele</md:title>
+  <md:abstract/>
+  <md:uuid>89ffc767-b07d-4f52-8abd-8e6426e2c5d8</md:uuid>
+</metadata>
+
+<content>
+  <para id="delete_me"><!-- Insert module text here -->
+Bloggen på BB består af følgende elementer:</para><list id="eip-668"><item>"Instructions": Her kan du forklare de studerende hvordan de studerende skal bruge bloggen / hvad formålet med den konkrete bog der er oprettet er.</item>
+<item>"Create Blog Entry": Denne knap kan du klikke på hvis du vil oprette et nyt indlæg.</item>
+<item>"Comment": Denne knap kan du klikke på hvis du vil oprette en kommentar til et konkret indlæg.</item>
+<item>"Comments": Denne knap kan du klikke på hvis der er kommentarer til et indlæg og du vil se dem.</item>
+<item>"About this blog": Her kan du se hvilken type bloggen er fx en "course blog". Du kan også se hvor mange indlæg og kommentarer der i alt er postet.</item>
+<item>"View Entries by": Her har du mulighed i at sortere indlæggene efter forfatter. Du kan se hvor mange indlæg en pågældende deltager har lavet, og klikke på deltageren for at se dennes indlæg isoleret.</item></list><para id="eip-874">Selve indlæggene i bloggen er markeret med dato, aller øverst i en grå bjælke, og overskrift, blå, samt forfatter og præcis klokkeslet.</para>
+</content>
+
+</document>

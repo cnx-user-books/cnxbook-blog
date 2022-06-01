@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Sådan kommer du i gang</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37314</md:content-id>
+  <md:title>Sådan kommer du i gang</md:title>
+  <md:abstract/>
+  <md:uuid>db6cb52c-549a-4721-934c-1c4787b2fca9</md:uuid>
+</metadata>
+
+<content>
+  <para id="saadan_kommer_du_i_gang">For at kunne gøre brug af BlackBoards kursusblog, skal man være logget ind på BlackBoard. Når man er logget ind, skal man vælge det fag man vil oprette bloggen i. Herefter trykker man på "Tools" i den venstre menu. Man bliver herefter ledt ind på en side med forskellige værktøjer på BlackBoard. Her vælger man "Blog". Inde under blogværktøjet er der en knap, hvor der står "Create Blog". Tryg på denne, og herefter åbner bloggens redigeringsværktøj sig i vinduet.</para><para id="eip-382">For at kunne oprette en blog skal man give den en overskrift. Det gør man ved at skrive i feltet "Name". Når man har givet sin blog en overskrift, så skriver man sin tekst i feltet nedenfor værktøjsbjælken.</para><para id="eip-119">Værktøjsbjælken indeholder knapper, der kan ændre på teksten layout, gøre dele af den til links, implementere billeder, video og lyd til teksten og meget mere.</para><para id="eip-294">Når teksten i bloggen er skrevet færdig, og man er færdig med at gøre brug af værktøjsbjælken, så er der mulighed for at udspecificere yderligere parametre for bloggen under tekstfeltet. Man behøver dog ikke at ændre på indstillingerne i disse hvis man er i tvivl om hvad de gør.</para>
+</content>
+
+</document>
